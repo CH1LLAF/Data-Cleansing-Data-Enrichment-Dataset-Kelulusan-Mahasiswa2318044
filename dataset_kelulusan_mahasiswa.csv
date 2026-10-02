@@ -1,0 +1,501 @@
+id_mahasiswa,jenis_kelamin,jurusan,semester,ipk,kehadiran_persen,jam_belajar_per_minggu,tugas_terkumpul,nilai_uts,nilai_uas,aktif_organisasi,kerja_paruh_waktu,status_kelulusan
+MHS0001,Perempuan,Teknik Industri,8,2.22,50.2,6.9,5,57,64,Tidak,Tidak,Terlambat
+MHS0002,Laki-laki,Teknik Sipil,2,3.06,65.5,12.6,9,69,71,Tidak,Tidak,Tepat Waktu
+MHS0003,Perempuan,Teknik Sipil,4,2.68,60.3,9.1,8,54,63,Ya,Tidak,Terlambat
+MHS0004,Perempuan,Teknik Elektro,5,2.48,55.0,9.4,8,33,58,Ya,Ya,Terlambat
+MHS0005,Laki-laki,Teknik Elektro,7,2.69,67.7,15.0,8,50,53,Ya,Tidak,Terlambat
+MHS0006,Perempuan,Teknik Industri,2,3.08,97.9,5.3,11,87,87,Ya,Ya,Tepat Waktu
+MHS0007,Perempuan,Sistem Informasi,5,3.33,81.5,17.2,12,70,69,Tidak,Tidak,Tepat Waktu
+MHS0008,Perempuan,Teknik Industri,3,3.24,97.5,5.0,12,68,78,Ya,Ya,Tepat Waktu
+MHS0009,Laki-laki,Sistem Informasi,7,3.0,86.9,8.7,12,71,57,Ya,Ya,Terlambat
+MHS0010,Laki-laki,Informatika,6,3.66,91.4,21.6,11,74,65,Tidak,Tidak,Tepat Waktu
+MHS0011,Laki-laki,Informatika,5,2.97,71.2,17.6,8,55,70,Tidak,Tidak,Tepat Waktu
+MHS0012,Perempuan,Teknik Industri,4,3.45,88.3,,13,78,70,Tidak,Tidak,Tepat Waktu
+MHS0013,Perempuan,Informatika,3,2.97,90.7,7.3,13,66,55,Tidak,Ya,Tepat Waktu
+MHS0014,Perempuan,Informatika,8,2.63,75.1,9.4,12,60,73,Ya,Tidak,Terlambat
+MHS0015,Laki-laki,Sistem Informasi,6,3.41,88.7,12.4,14,72,100,Tidak,Tidak,Tepat Waktu
+MHS0016,Laki-laki,Informatika,4,3.47,88.8,12.2,13,84,92,Ya,Tidak,Tepat Waktu
+MHS0017,Perempuan,Sistem Informasi,4,3.12,75.4,11.5,11,66,66,Tidak,Tidak,Tepat Waktu
+MHS0018,Laki-laki,Teknik Industri,7,2.88,68.5,11.8,8,59,61,Tidak,Tidak,Terlambat
+MHS0019,Perempuan,Informatika,7,2.67,67.8,10.9,7,64,67,Tidak,Tidak,Terlambat
+MHS0020,Perempuan,Teknik Industri,5,2.93,83.0,4.8,14,69,82,Tidak,Tidak,Terlambat
+MHS0021,Perempuan,Teknik Sipil,4,3.17,85.9,9.4,10,68,67,Tidak,Tidak,Tepat Waktu
+MHS0022,Laki-laki,Sistem Informasi,6,3.06,72.5,16.6,8,72,67,Ya,Tidak,Tepat Waktu
+MHS0023,Perempuan,Informatika,6,2.85,82.3,5.2,11,73,69,Tidak,Tidak,Tepat Waktu
+MHS0024,Perempuan,Teknik Elektro,6,3.36,88.8,11.1,12,75,82,Tidak,Ya,Tepat Waktu
+MHS0025,Perempuan,Informatika,2,2.94,89.4,7.9,11,73,71,Tidak,Tidak,Tepat Waktu
+MHS0026,Laki-laki,Sistem Informasi,5,3.34,100.0,12.6,13,77,83,Tidak,Tidak,Tepat Waktu
+MHS0027,Laki-laki,Teknik Sipil,6,3.74,97.3,10.1,14,74,96,Ya,Tidak,Tepat Waktu
+MHS0028,Laki-laki,Teknik Sipil,8,3.2,70.0,19.4,8,76,80,Tidak,Tidak,Tepat Waktu
+MHS0029,Laki-laki,Teknik Industri,5,3.37,100.0,14.5,11,88,88,Ya,Tidak,Tepat Waktu
+MHS0030,Perempuan,Sistem Informasi,4,2.89,75.6,5.4,12,69,82,Ya,Ya,Terlambat
+MHS0031,Perempuan,Teknik Elektro,5,3.43,94.5,15.4,14,88,82,Ya,Ya,Tepat Waktu
+MHS0032,Perempuan,Teknik Industri,3,2.36,82.8,8.1,10,68,84,Tidak,Ya,Terlambat
+MHS0033,Laki-laki,Sistem Informasi,2,2.69,77.1,9.1,8,70,68,Ya,Tidak,Terlambat
+MHS0034,Laki-laki,Teknik Elektro,6,2.62,60.3,13.6,7,66,90,Ya,Ya,Terlambat
+MHS0035,Laki-laki,Informatika,8,2.95,79.9,9.5,11,78,57,Ya,Tidak,Tepat Waktu
+MHS0036,Laki-laki,Informatika,7,3.0,63.3,16.5,11,65,60,Tidak,Tidak,Tepat Waktu
+MHS0037,Laki-laki,Teknik Elektro,6,3.43,93.6,8.1,11,88,79,Tidak,Tidak,Tepat Waktu
+MHS0038,Laki-laki,Informatika,2,3.36,,8.9,14,85,87,Ya,Tidak,Tepat Waktu
+MHS0039,Laki-laki,Informatika,8,2.72,72.4,8.7,11,71,84,Ya,Tidak,Terlambat
+MHS0040,Perempuan,Teknik Industri,5,2.94,85.6,9.2,8,70,60,Tidak,Ya,Tepat Waktu
+MHS0041,Laki-laki,Teknik Sipil,4,3.11,73.3,17.5,12,76,83,Ya,Tidak,Tepat Waktu
+MHS0042,Perempuan,Teknik Elektro,8,2.84,74.5,15.1,8,59,78,Tidak,Ya,Tepat Waktu
+MHS0043,Perempuan,Teknik Industri,7,3.39,91.3,20.5,13,94,94,Tidak,Ya,Tepat Waktu
+MHS0044,Laki-laki,Teknik Sipil,7,3.88,81.5,23.3,12,100,73,Tidak,Tidak,Tepat Waktu
+MHS0045,Perempuan,Informatika,3,2.83,100.0,6.8,14,77,95,Ya,Ya,Tepat Waktu
+MHS0046,Perempuan,Sistem Informasi,8,3.02,76.2,12.4,12,72,83,Tidak,Tidak,Tepat Waktu
+MHS0047,Laki-laki,Sistem Informasi,5,3.06,94.0,6.1,9,66,76,Ya,Tidak,Tepat Waktu
+MHS0048,Laki-laki,Informatika,5,2.84,,8.1,10,63,70,Tidak,Tidak,Terlambat
+MHS0049,Perempuan,Teknik Industri,7,3.45,91.5,,13,92,79,Tidak,Tidak,Tepat Waktu
+MHS0050,Laki-laki,Sistem Informasi,6,3.02,76.6,,10,57,63,Tidak,Tidak,Terlambat
+MHS0051,Laki-laki,Sistem Informasi,3,3.01,81.4,6.7,12,64,75,Tidak,Tidak,Tepat Waktu
+MHS0052,Laki-laki,Informatika,4,3.09,80.6,11.3,13,58,74,Ya,Tidak,Tepat Waktu
+MHS0053,Perempuan,Informatika,4,2.78,72.0,5.9,11,54,53,Tidak,Tidak,Terlambat
+MHS0054,Perempuan,Teknik Sipil,8,3.22,89.9,16.2,12,64,70,Tidak,Ya,Tepat Waktu
+MHS0055,Perempuan,Informatika,7,3.02,89.8,7.4,9,75,62,Ya,Tidak,Tepat Waktu
+MHS0056,Perempuan,Informatika,4,3.58,89.1,26.0,12,100,91,Tidak,Tidak,Tepat Waktu
+MHS0057,Laki-laki,Informatika,7,3.38,100.0,9.7,14,80,83,Tidak,Ya,Tepat Waktu
+MHS0058,Perempuan,Sistem Informasi,7,3.45,99.4,12.4,12,66,85,Tidak,Ya,Tepat Waktu
+MHS0059,Laki-laki,Teknik Elektro,4,2.7,77.5,5.5,12,75,71,Tidak,Tidak,Terlambat
+MHS0060,Laki-laki,Sistem Informasi,4,3.28,86.5,20.5,14,79,80,Tidak,Tidak,Tepat Waktu
+MHS0061,Perempuan,Informatika,8,2.83,74.5,17.6,11,86,88,Tidak,Tidak,Tepat Waktu
+MHS0062,Laki-laki,Informatika,5,3.12,82.3,13.5,6,63,64,Ya,Tidak,Tepat Waktu
+MHS0063,Perempuan,Teknik Industri,3,2.76,74.8,5.3,8,52,54,Ya,Tidak,Tepat Waktu
+MHS0064,Perempuan,Teknik Elektro,7,3.62,100.0,13.1,14,84,91,Ya,Tidak,Tepat Waktu
+MHS0065,Perempuan,Teknik Elektro,6,2.74,86.4,6.4,11,77,51,Tidak,Tidak,Tepat Waktu
+MHS0066,Perempuan,Teknik Elektro,5,3.48,79.4,19.3,8,70,65,Tidak,Tidak,Tepat Waktu
+MHS0067,Perempuan,Teknik Industri,7,3.32,96.3,16.0,14,82,97,Tidak,Ya,Tepat Waktu
+MHS0068,Laki-laki,Informatika,8,2.55,56.0,12.5,8,53,38,Ya,Ya,Terlambat
+MHS0069,Laki-laki,Sistem Informasi,4,2.63,57.8,1.0,10,36,60,Ya,Tidak,Terlambat
+MHS0070,Laki-laki,Teknik Elektro,4,3.04,91.6,7.1,13,79,91,Tidak,Tidak,Tepat Waktu
+MHS0071,Laki-laki,Sistem Informasi,3,3.11,82.7,15.4,12,59,73,Ya,Tidak,Tepat Waktu
+MHS0072,Laki-laki,Teknik Industri,6,3.42,85.0,18.1,13,77,85,Ya,Tidak,Tepat Waktu
+MHS0073,Perempuan,Sistem Informasi,4,3.62,66.1,17.5,11,76,80,Tidak,Tidak,Tepat Waktu
+MHS0074,Laki-laki,Teknik Industri,4,3.1,81.7,4.0,14,72,65,Ya,Tidak,Tepat Waktu
+MHS0075,Laki-laki,Teknik Sipil,6,3.77,100.0,13.5,14,92,95,Ya,Ya,Tepat Waktu
+MHS0076,Laki-laki,Teknik Elektro,4,3.47,91.9,17.1,10,79,73,Tidak,Ya,Tepat Waktu
+MHS0077,Laki-laki,Teknik Sipil,5,3.0,84.0,3.7,13,80,64,Tidak,Ya,Terlambat
+MHS0078,Perempuan,Teknik Elektro,5,2.92,76.7,12.0,13,81,64,Ya,Tidak,Terlambat
+MHS0079,Perempuan,Teknik Sipil,3,3.38,77.3,13.4,13,78,77,Tidak,Tidak,Tepat Waktu
+MHS0080,Perempuan,Sistem Informasi,2,2.28,56.4,10.5,7,61,64,Tidak,Tidak,Terlambat
+MHS0081,Perempuan,Sistem Informasi,7,3.38,85.1,2.7,14,77,68,Tidak,Tidak,Tepat Waktu
+MHS0082,Laki-laki,Teknik Elektro,2,3.36,92.1,10.4,14,76,67,Tidak,Tidak,Tepat Waktu
+MHS0083,Perempuan,Informatika,4,2.33,63.1,10.4,13,51,53,Tidak,Tidak,Terlambat
+MHS0084,Laki-laki,Sistem Informasi,6,2.85,74.1,11.3,9,69,69,Tidak,Tidak,Terlambat
+MHS0085,Laki-laki,Teknik Sipil,2,2.93,68.1,9.2,9,65,78,Tidak,Tidak,Terlambat
+MHS0086,Laki-laki,Teknik Elektro,6,2.78,70.4,9.8,9,72,65,Tidak,Tidak,Terlambat
+MHS0087,Perempuan,Informatika,7,3.25,82.6,11.8,11,63,68,Ya,Tidak,Tepat Waktu
+MHS0088,Laki-laki,Sistem Informasi,6,2.44,57.0,14.2,6,45,62,Ya,Tidak,Terlambat
+MHS0089,Laki-laki,Informatika,4,2.8,89.4,10.5,8,75,68,Tidak,Tidak,Tepat Waktu
+MHS0090,Laki-laki,Informatika,2,3.21,91.0,10.0,12,76,72,Ya,Tidak,Tepat Waktu
+MHS0091,Laki-laki,Teknik Sipil,8,3.1,79.0,12.5,12,53,63,Tidak,Tidak,Tepat Waktu
+MHS0092,Perempuan,Sistem Informasi,4,2.21,52.2,2.4,6,45,56,Tidak,Tidak,Terlambat
+MHS0093,Laki-laki,Sistem Informasi,7,3.18,70.0,14.4,13,52,46,Tidak,Ya,Tepat Waktu
+MHS0094,Laki-laki,Teknik Elektro,3,3.27,96.8,12.0,14,74,92,Ya,Tidak,Tepat Waktu
+MHS0095,Laki-laki,Informatika,3,2.64,48.7,12.2,9,66,48,Tidak,Tidak,Terlambat
+MHS0096,Perempuan,Informatika,7,3.1,77.8,16.8,11,92,70,Tidak,Ya,Tepat Waktu
+MHS0097,Laki-laki,Teknik Industri,8,2.37,67.8,2.2,11,44,73,Ya,Tidak,Terlambat
+MHS0098,Laki-laki,Teknik Elektro,8,2.72,91.7,2.1,13,68,64,Ya,Ya,Terlambat
+MHS0099,Laki-laki,Teknik Sipil,7,3.11,,13.4,13,72,65,Ya,Tidak,Tepat Waktu
+MHS0100,Perempuan,Teknik Elektro,3,3.64,86.8,12.0,12,94,75,Ya,Tidak,Tepat Waktu
+MHS0101,Perempuan,Sistem Informasi,8,3.33,88.8,12.9,13,74,83,Ya,Ya,Tepat Waktu
+MHS0102,Perempuan,Teknik Industri,6,3.08,100.0,9.7,14,79,79,Tidak,Tidak,Tepat Waktu
+MHS0103,Laki-laki,Teknik Sipil,3,2.54,79.6,15.3,11,89,58,Tidak,Tidak,Terlambat
+MHS0104,Perempuan,Teknik Industri,2,3.5,86.5,16.7,13,77,72,Ya,Tidak,Tepat Waktu
+MHS0105,Perempuan,Teknik Sipil,8,3.01,64.2,14.4,13,75,81,Ya,Tidak,Tepat Waktu
+MHS0106,Perempuan,Teknik Industri,3,3.58,96.3,10.7,13,66,82,Ya,Tidak,Tepat Waktu
+MHS0107,Laki-laki,Teknik Sipil,7,2.56,72.9,,11,57,63,Tidak,Tidak,Terlambat
+MHS0108,Laki-laki,Informatika,2,3.24,75.3,15.8,13,58,72,Ya,Tidak,Tepat Waktu
+MHS0109,Laki-laki,Teknik Industri,3,3.39,81.7,18.1,13,69,73,Tidak,Ya,Tepat Waktu
+MHS0110,Perempuan,Sistem Informasi,3,2.79,63.2,15.2,9,71,79,Ya,Tidak,Terlambat
+MHS0111,Laki-laki,Teknik Elektro,3,2.84,84.7,7.6,8,65,63,Ya,Tidak,Tepat Waktu
+MHS0112,Laki-laki,Teknik Elektro,6,3.48,93.6,15.4,14,82,81,Tidak,Tidak,Tepat Waktu
+MHS0113,Laki-laki,Teknik Sipil,8,3.26,85.5,16.3,8,66,84,Ya,Tidak,Tepat Waktu
+MHS0114,Perempuan,Teknik Sipil,8,3.02,62.9,19.8,11,67,62,Ya,Tidak,Tepat Waktu
+MHS0115,Laki-laki,Informatika,7,3.12,80.5,7.6,12,72,63,Ya,Ya,Tepat Waktu
+MHS0116,Perempuan,Teknik Industri,3,3.26,90.9,10.9,14,90,80,Tidak,Tidak,Tepat Waktu
+MHS0117,Perempuan,Teknik Industri,8,2.43,59.5,15.7,7,32,58,Tidak,Tidak,Terlambat
+MHS0118,Perempuan,Sistem Informasi,5,3.07,69.1,12.3,7,52,63,Tidak,Ya,Tepat Waktu
+MHS0119,Laki-laki,Informatika,5,3.11,92.5,6.4,13,77,96,Tidak,Tidak,Tepat Waktu
+MHS0120,Perempuan,Informatika,6,3.14,85.2,14.1,12,76,80,Ya,Tidak,Tepat Waktu
+MHS0121,Perempuan,Teknik Industri,7,3.12,86.9,14.9,11,81,53,Tidak,Ya,Tepat Waktu
+MHS0122,Perempuan,Sistem Informasi,8,3.42,100.0,12.4,14,88,89,Ya,Ya,Tepat Waktu
+MHS0123,Laki-laki,Teknik Sipil,6,,87.6,13.1,14,77,80,Tidak,Tidak,Tepat Waktu
+MHS0124,Laki-laki,Sistem Informasi,6,3.31,89.9,10.7,14,74,80,Tidak,Tidak,Tepat Waktu
+MHS0125,Laki-laki,Teknik Sipil,7,3.56,100.0,19.4,14,89,94,Ya,Ya,Tepat Waktu
+MHS0126,Laki-laki,Sistem Informasi,3,3.1,79.4,,13,81,69,Tidak,Tidak,Tepat Waktu
+MHS0127,Laki-laki,Teknik Industri,4,2.51,72.4,9.1,13,60,67,Ya,Tidak,Terlambat
+MHS0128,Laki-laki,Informatika,6,3.61,87.1,12.1,12,75,82,Tidak,Tidak,Tepat Waktu
+MHS0129,Laki-laki,Teknik Elektro,2,3.18,87.3,16.4,9,77,70,Ya,Tidak,Tepat Waktu
+MHS0130,Perempuan,Teknik Industri,4,2.93,75.7,4.5,10,77,52,Tidak,Tidak,Terlambat
+MHS0131,Laki-laki,Teknik Sipil,7,2.53,69.6,5.4,11,57,90,Tidak,Tidak,Terlambat
+MHS0132,Perempuan,Teknik Industri,8,3.07,100.0,1.8,12,83,67,Ya,Tidak,Tepat Waktu
+MHS0133,Perempuan,Informatika,5,3.1,85.9,12.2,12,88,77,Tidak,Tidak,Tepat Waktu
+MHS0134,Laki-laki,Sistem Informasi,4,2.95,73.2,6.4,9,59,45,Tidak,Ya,Terlambat
+MHS0135,Perempuan,Informatika,5,3.23,93.0,10.1,14,78,81,Tidak,Tidak,Tepat Waktu
+MHS0136,Laki-laki,Informatika,6,3.29,,15.3,13,74,68,Ya,Ya,Tepat Waktu
+MHS0137,Perempuan,Teknik Elektro,5,2.9,79.0,8.8,12,67,65,Tidak,Tidak,Tepat Waktu
+MHS0138,Laki-laki,Teknik Industri,2,3.19,88.7,13.2,14,89,91,Tidak,Ya,Tepat Waktu
+MHS0139,Perempuan,Teknik Industri,5,2.74,66.5,10.5,9,62,65,Tidak,Tidak,Terlambat
+MHS0140,Laki-laki,Teknik Sipil,4,3.46,86.2,15.4,12,81,84,Ya,Ya,Tepat Waktu
+MHS0141,Laki-laki,Teknik Industri,6,3.06,100.0,14.4,12,73,67,Ya,Tidak,Tepat Waktu
+MHS0142,Laki-laki,Teknik Industri,8,2.74,87.6,8.5,8,58,86,Tidak,Tidak,Tepat Waktu
+MHS0143,Perempuan,Informatika,8,2.55,77.5,11.2,11,90,57,Ya,Ya,Terlambat
+MHS0144,Perempuan,Informatika,6,2.95,75.9,17.2,11,72,89,Tidak,Tidak,Tepat Waktu
+MHS0145,Laki-laki,Teknik Elektro,4,3.01,77.1,14.0,13,66,84,Tidak,Tidak,Tepat Waktu
+MHS0146,Laki-laki,Teknik Sipil,5,2.73,79.0,5.0,14,83,75,Ya,Tidak,Tepat Waktu
+MHS0147,Laki-laki,Informatika,3,3.1,77.5,15.3,14,80,68,Ya,Tidak,Tepat Waktu
+MHS0148,Laki-laki,Teknik Elektro,8,2.75,93.0,6.6,11,79,74,Tidak,Tidak,Tepat Waktu
+MHS0149,Laki-laki,Teknik Elektro,7,2.56,61.2,19.1,8,62,59,Ya,Ya,Terlambat
+MHS0150,Laki-laki,Informatika,7,3.74,92.3,17.1,14,83,86,Tidak,Tidak,Tepat Waktu
+MHS0151,Perempuan,Sistem Informasi,4,3.18,77.4,13.4,14,73,73,Tidak,Ya,Tepat Waktu
+MHS0152,Perempuan,Teknik Sipil,4,3.32,86.5,12.8,14,65,59,Tidak,Tidak,Tepat Waktu
+MHS0153,Laki-laki,Teknik Elektro,7,2.75,68.5,11.0,12,65,77,Ya,Tidak,Terlambat
+MHS0154,Perempuan,Informatika,5,3.2,97.9,15.4,13,89,85,Tidak,Tidak,Tepat Waktu
+MHS0155,Laki-laki,Teknik Sipil,6,3.11,96.9,10.1,12,98,74,Tidak,Tidak,Tepat Waktu
+MHS0156,Perempuan,Sistem Informasi,5,3.41,93.5,13.2,14,84,77,Ya,Tidak,Tepat Waktu
+MHS0157,Laki-laki,Teknik Sipil,5,2.95,63.8,16.4,7,38,65,Tidak,Tidak,Terlambat
+MHS0158,Perempuan,Informatika,6,3.3,91.9,9.2,12,75,67,Tidak,Ya,Tepat Waktu
+MHS0159,Perempuan,Teknik Elektro,7,3.18,86.9,8.9,12,100,51,Tidak,Ya,Tepat Waktu
+MHS0160,Perempuan,Sistem Informasi,4,2.6,62.7,6.0,12,67,63,Tidak,Tidak,Terlambat
+MHS0161,Laki-laki,Informatika,7,2.98,81.7,6.7,11,59,72,Ya,Tidak,Tepat Waktu
+MHS0162,Perempuan,Teknik Sipil,3,2.77,86.4,2.9,8,68,60,Ya,Tidak,Terlambat
+MHS0163,Laki-laki,Informatika,4,3.22,88.7,15.6,13,74,70,Ya,Ya,Tepat Waktu
+MHS0164,Laki-laki,Informatika,8,3.76,84.1,21.0,11,67,82,Ya,Tidak,Tepat Waktu
+MHS0165,Perempuan,Sistem Informasi,8,3.0,85.5,19.1,12,78,67,Tidak,Tidak,Tepat Waktu
+MHS0166,Laki-laki,Teknik Industri,8,3.13,99.7,3.9,14,79,68,Ya,Ya,Tepat Waktu
+MHS0167,Perempuan,Teknik Industri,4,3.6,96.7,15.6,13,67,78,Tidak,Ya,Tepat Waktu
+MHS0168,Perempuan,Teknik Sipil,7,2.38,47.6,19.1,8,45,65,Ya,Tidak,Terlambat
+MHS0169,Laki-laki,Informatika,8,2.75,78.2,9.7,8,64,60,Ya,Tidak,Terlambat
+MHS0170,Perempuan,Sistem Informasi,8,2.94,80.0,12.5,10,66,66,Tidak,Tidak,Tepat Waktu
+MHS0171,Laki-laki,Informatika,2,,61.0,2.0,10,55,71,Ya,Tidak,Terlambat
+MHS0172,Laki-laki,Teknik Elektro,7,2.83,83.1,13.3,11,62,77,Tidak,Tidak,Tepat Waktu
+MHS0173,Laki-laki,Teknik Sipil,8,3.33,97.0,6.7,11,82,78,Tidak,Tidak,Tepat Waktu
+MHS0174,Perempuan,Teknik Industri,7,3.07,69.0,13.0,11,55,63,Tidak,Tidak,Tepat Waktu
+MHS0175,Laki-laki,Teknik Elektro,3,3.22,86.0,4.2,14,88,66,Ya,Tidak,Tepat Waktu
+MHS0176,Laki-laki,Sistem Informasi,7,2.76,71.0,14.7,10,50,46,Tidak,Tidak,Tepat Waktu
+MHS0177,Laki-laki,Teknik Sipil,2,2.88,73.9,17.1,7,56,76,Ya,Ya,Tepat Waktu
+MHS0178,Perempuan,Sistem Informasi,5,3.12,99.7,8.1,14,86,86,Tidak,Ya,Tepat Waktu
+MHS0179,Perempuan,Informatika,6,2.71,75.5,6.3,8,76,58,Tidak,Tidak,Tepat Waktu
+MHS0180,Perempuan,Sistem Informasi,5,3.44,87.5,1.2,13,72,67,Ya,Tidak,Tepat Waktu
+MHS0181,Perempuan,Informatika,6,2.64,59.5,10.7,7,60,61,Ya,Tidak,Terlambat
+MHS0182,Perempuan,Informatika,3,3.08,100.0,9.1,12,80,64,Ya,Tidak,Tepat Waktu
+MHS0183,Laki-laki,Informatika,6,2.98,89.2,4.2,12,60,64,Ya,Ya,Tepat Waktu
+MHS0184,Laki-laki,Sistem Informasi,6,2.85,79.8,14.3,11,68,62,Tidak,Tidak,Tepat Waktu
+MHS0185,Perempuan,Teknik Elektro,6,2.93,88.9,9.8,11,61,91,Tidak,Tidak,Tepat Waktu
+MHS0186,Perempuan,Sistem Informasi,4,2.49,65.1,6.6,10,45,66,Tidak,Tidak,Terlambat
+MHS0187,Laki-laki,Sistem Informasi,4,3.12,96.2,9.2,13,84,58,Ya,Ya,Tepat Waktu
+MHS0188,Laki-laki,Teknik Sipil,3,3.43,78.1,17.4,13,66,62,Tidak,Tidak,Tepat Waktu
+MHS0189,Perempuan,Teknik Industri,5,3.31,,15.0,12,78,73,Ya,Tidak,Tepat Waktu
+MHS0190,Laki-laki,Teknik Elektro,6,3.02,76.1,11.3,9,53,61,Tidak,Tidak,Tepat Waktu
+MHS0191,Perempuan,Informatika,4,2.78,75.0,15.1,9,71,55,Ya,Tidak,Tepat Waktu
+MHS0192,Laki-laki,Teknik Sipil,4,2.96,90.3,6.2,10,65,89,Ya,Tidak,Tepat Waktu
+MHS0193,Laki-laki,Informatika,4,3.28,85.1,12.2,12,89,78,Tidak,Tidak,Tepat Waktu
+MHS0194,Perempuan,Sistem Informasi,3,3.17,89.8,12.7,12,81,83,Ya,Tidak,Tepat Waktu
+MHS0195,Laki-laki,Teknik Sipil,6,,81.9,9.7,7,77,57,Tidak,Tidak,Tepat Waktu
+MHS0196,Laki-laki,Teknik Elektro,7,3.34,88.2,14.2,11,69,84,Tidak,Tidak,Tepat Waktu
+MHS0197,Perempuan,Teknik Industri,4,2.79,77.0,8.1,9,64,59,Ya,Tidak,Tepat Waktu
+MHS0198,Perempuan,Teknik Elektro,8,3.58,100.0,14.5,14,78,85,Tidak,Tidak,Tepat Waktu
+MHS0199,Laki-laki,Teknik Elektro,5,3.03,63.2,14.8,6,54,64,Tidak,Tidak,Terlambat
+MHS0200,Laki-laki,Informatika,3,3.01,97.1,1.0,11,68,54,Tidak,Tidak,Tepat Waktu
+MHS0201,Perempuan,Informatika,4,3.85,98.4,18.0,14,82,100,Tidak,Tidak,Tepat Waktu
+MHS0202,Perempuan,Sistem Informasi,2,2.84,71.8,1.0,12,47,61,Tidak,Tidak,Terlambat
+MHS0203,Laki-laki,Informatika,2,3.08,100.0,8.9,13,67,94,Tidak,Tidak,Tepat Waktu
+MHS0204,Laki-laki,Teknik Sipil,4,3.19,93.9,17.1,12,60,73,Tidak,Tidak,Tepat Waktu
+MHS0205,Laki-laki,Informatika,5,3.17,93.7,10.4,14,70,72,Tidak,Tidak,Tepat Waktu
+MHS0206,Laki-laki,Teknik Elektro,7,2.6,82.3,4.7,7,66,49,Ya,Tidak,Terlambat
+MHS0207,Laki-laki,Teknik Industri,2,2.79,79.4,6.5,8,46,64,Ya,Tidak,Tepat Waktu
+MHS0208,Perempuan,Teknik Industri,7,3.31,79.5,17.1,11,61,76,Tidak,Tidak,Tepat Waktu
+MHS0209,Laki-laki,Sistem Informasi,3,3.34,86.7,2.4,14,88,66,Ya,Tidak,Tepat Waktu
+MHS0210,Laki-laki,Sistem Informasi,2,3.61,98.8,17.6,13,82,78,Ya,Tidak,Tepat Waktu
+MHS0211,Perempuan,Teknik Sipil,6,3.08,84.2,11.7,12,77,62,Ya,Tidak,Tepat Waktu
+MHS0212,Perempuan,Teknik Elektro,7,2.44,71.1,6.0,12,69,62,Tidak,Tidak,Terlambat
+MHS0213,Laki-laki,Teknik Industri,6,3.22,91.9,9.1,14,85,74,Ya,Ya,Tepat Waktu
+MHS0214,Perempuan,Teknik Sipil,2,3.17,93.1,,12,59,68,Tidak,Tidak,Tepat Waktu
+MHS0215,Perempuan,Teknik Industri,2,3.47,89.9,16.3,13,80,98,Tidak,Tidak,Tepat Waktu
+MHS0216,Perempuan,Informatika,4,3.75,90.9,15.7,14,68,83,Tidak,Ya,Tepat Waktu
+MHS0217,Laki-laki,Teknik Elektro,5,3.03,78.7,3.4,8,83,71,Ya,Tidak,Tepat Waktu
+MHS0218,Laki-laki,Informatika,8,3.08,70.9,10.0,12,50,61,Tidak,Tidak,Terlambat
+MHS0219,Perempuan,Teknik Elektro,4,2.44,71.6,7.7,8,48,61,Tidak,Ya,Terlambat
+MHS0220,Laki-laki,Teknik Sipil,3,2.8,62.4,18.5,9,55,64,Tidak,Tidak,Terlambat
+MHS0221,Laki-laki,Teknik Elektro,8,2.93,84.8,5.2,11,53,51,Tidak,Tidak,Tepat Waktu
+MHS0222,Laki-laki,Sistem Informasi,3,3.13,81.0,20.0,10,90,91,Ya,Tidak,Tepat Waktu
+MHS0223,Perempuan,Informatika,2,3.08,76.7,11.8,9,91,65,Tidak,Tidak,Tepat Waktu
+MHS0224,Perempuan,Teknik Sipil,4,2.38,46.5,6.2,7,39,51,Ya,Tidak,Terlambat
+MHS0225,Laki-laki,Informatika,4,2.58,67.0,8.6,11,48,54,Tidak,Tidak,Terlambat
+MHS0226,Perempuan,Informatika,6,3.5,95.5,8.0,13,56,77,Tidak,Tidak,Tepat Waktu
+MHS0227,Laki-laki,Informatika,8,2.71,74.0,5.6,10,59,52,Ya,Ya,Terlambat
+MHS0228,Perempuan,Informatika,8,2.93,86.3,12.5,13,74,90,Tidak,Tidak,Tepat Waktu
+MHS0229,Perempuan,Sistem Informasi,4,2.55,65.3,5.9,7,46,56,Ya,Tidak,Terlambat
+MHS0230,Laki-laki,Teknik Elektro,8,3.28,99.3,1.1,14,78,79,Tidak,Tidak,Tepat Waktu
+MHS0231,Laki-laki,Sistem Informasi,6,3.34,80.3,10.1,13,76,86,Tidak,Tidak,Tepat Waktu
+MHS0232,Laki-laki,Informatika,2,3.02,85.5,3.0,14,74,82,Ya,Tidak,Tepat Waktu
+MHS0233,Perempuan,Informatika,8,,100.0,8.2,13,77,88,Ya,Tidak,Tepat Waktu
+MHS0234,Perempuan,Sistem Informasi,2,3.35,100.0,7.5,13,69,66,Tidak,Tidak,Tepat Waktu
+MHS0235,Perempuan,Informatika,6,2.73,,7.6,12,74,61,Ya,Tidak,Terlambat
+MHS0236,Perempuan,Teknik Elektro,7,3.0,74.9,22.0,12,79,68,Tidak,Tidak,Tepat Waktu
+MHS0237,Laki-laki,Informatika,3,3.27,78.1,12.3,10,78,76,Tidak,Tidak,Tepat Waktu
+MHS0238,Perempuan,Sistem Informasi,3,3.52,88.1,13.2,12,85,79,Tidak,Tidak,Tepat Waktu
+MHS0239,Laki-laki,Sistem Informasi,5,2.95,80.7,3.1,12,51,51,Ya,Tidak,Terlambat
+MHS0240,Laki-laki,Sistem Informasi,8,3.17,77.3,8.7,9,50,62,Tidak,Tidak,Tepat Waktu
+MHS0241,Perempuan,Informatika,3,3.66,99.6,13.1,13,77,70,Tidak,Tidak,Tepat Waktu
+MHS0242,Perempuan,Informatika,6,2.99,80.6,6.9,11,56,66,Ya,Ya,Terlambat
+MHS0243,Laki-laki,Teknik Sipil,5,3.41,100.0,16.5,14,97,73,Ya,Tidak,Tepat Waktu
+MHS0244,Laki-laki,Informatika,2,3.34,83.1,6.0,11,71,73,Ya,Tidak,Tepat Waktu
+MHS0245,Perempuan,Teknik Elektro,6,3.46,100.0,10.6,11,91,84,Ya,Tidak,Tepat Waktu
+MHS0246,Perempuan,Sistem Informasi,7,2.98,86.3,9.1,9,73,88,Tidak,Tidak,Tepat Waktu
+MHS0247,Perempuan,Sistem Informasi,6,3.08,93.6,12.8,11,81,87,Tidak,Ya,Tepat Waktu
+MHS0248,Laki-laki,Sistem Informasi,3,2.85,73.3,8.8,8,73,56,Tidak,Tidak,Terlambat
+MHS0249,Laki-laki,Teknik Industri,3,2.58,71.8,10.6,10,69,72,Ya,Tidak,Terlambat
+MHS0250,Laki-laki,Teknik Industri,4,3.25,87.5,10.8,10,73,58,Ya,Tidak,Tepat Waktu
+MHS0251,Perempuan,Informatika,5,2.95,93.9,8.3,12,91,67,Ya,Ya,Tepat Waktu
+MHS0252,Perempuan,Sistem Informasi,5,3.12,82.5,14.4,10,74,76,Tidak,Ya,Tepat Waktu
+MHS0253,Laki-laki,Informatika,3,2.71,,13.2,9,59,41,Tidak,Tidak,Terlambat
+MHS0254,Laki-laki,Sistem Informasi,5,2.85,65.7,11.6,12,57,65,Ya,Tidak,Terlambat
+MHS0255,Laki-laki,Teknik Elektro,4,2.52,64.9,9.8,10,67,50,Tidak,Ya,Terlambat
+MHS0256,Perempuan,Informatika,6,2.71,60.8,16.0,9,74,63,Ya,Ya,Terlambat
+MHS0257,Perempuan,Sistem Informasi,7,3.47,83.3,10.8,11,71,61,Ya,Tidak,Tepat Waktu
+MHS0258,Laki-laki,Teknik Sipil,6,,95.5,10.5,13,93,85,Ya,Ya,Tepat Waktu
+MHS0259,Laki-laki,Informatika,2,3.21,81.8,12.5,12,54,74,Tidak,Tidak,Tepat Waktu
+MHS0260,Perempuan,Sistem Informasi,8,2.87,54.9,20.5,9,62,77,Tidak,Tidak,Tepat Waktu
+MHS0261,Laki-laki,Teknik Industri,2,,79.7,5.3,10,63,64,Tidak,Ya,Terlambat
+MHS0262,Perempuan,Informatika,8,3.39,80.0,15.8,11,67,67,Ya,Tidak,Tepat Waktu
+MHS0263,Laki-laki,Informatika,2,2.86,100.0,2.5,10,95,69,Ya,Ya,Tepat Waktu
+MHS0264,Laki-laki,Informatika,5,2.78,64.5,13.1,9,61,48,Tidak,Tidak,Tepat Waktu
+MHS0265,Perempuan,Teknik Sipil,2,2.92,77.3,19.9,12,74,82,Ya,Tidak,Tepat Waktu
+MHS0266,Laki-laki,Informatika,2,3.74,100.0,14.4,13,86,92,Tidak,Tidak,Tepat Waktu
+MHS0267,Laki-laki,Informatika,6,3.75,87.4,12.9,14,60,100,Tidak,Tidak,Tepat Waktu
+MHS0268,Laki-laki,Informatika,7,3.04,88.8,9.2,11,65,67,Tidak,Ya,Terlambat
+MHS0269,Laki-laki,Informatika,2,2.76,83.4,12.2,12,84,72,Tidak,Tidak,Tepat Waktu
+MHS0270,Laki-laki,Teknik Elektro,8,3.29,86.0,10.7,12,68,69,Tidak,Tidak,Tepat Waktu
+MHS0271,Laki-laki,Informatika,4,3.04,91.3,8.1,13,68,78,Tidak,Tidak,Tepat Waktu
+MHS0272,Laki-laki,Teknik Elektro,4,2.79,72.3,10.6,10,78,68,Tidak,Tidak,Terlambat
+MHS0273,Laki-laki,Teknik Elektro,4,3.41,92.5,13.0,13,94,80,Tidak,Ya,Tepat Waktu
+MHS0274,Perempuan,Teknik Industri,5,2.86,65.5,8.2,11,66,71,Ya,Tidak,Terlambat
+MHS0275,Perempuan,Informatika,3,3.08,85.9,8.0,14,70,69,Tidak,Tidak,Tepat Waktu
+MHS0276,Laki-laki,Teknik Sipil,4,2.9,84.1,5.2,12,66,79,Ya,Tidak,Terlambat
+MHS0277,Laki-laki,Teknik Elektro,3,3.12,74.6,14.0,12,63,77,Tidak,Tidak,Tepat Waktu
+MHS0278,Laki-laki,Informatika,2,3.04,81.7,14.7,10,63,73,Tidak,Tidak,Tepat Waktu
+MHS0279,Perempuan,Teknik Industri,4,2.84,74.5,13.2,12,60,68,Tidak,Tidak,Tepat Waktu
+MHS0280,Perempuan,Teknik Sipil,6,2.88,69.1,16.8,8,59,90,Tidak,Tidak,Tepat Waktu
+MHS0281,Laki-laki,Informatika,7,3.19,77.8,12.4,13,63,65,Tidak,Tidak,Tepat Waktu
+MHS0282,Laki-laki,Teknik Sipil,4,3.05,68.8,14.0,14,56,74,Ya,Tidak,Tepat Waktu
+MHS0283,Laki-laki,Sistem Informasi,4,2.96,85.9,13.5,12,79,69,Ya,Tidak,Tepat Waktu
+MHS0284,Laki-laki,Teknik Elektro,7,2.93,68.2,11.5,6,60,75,Ya,Tidak,Tepat Waktu
+MHS0285,Perempuan,Teknik Sipil,6,2.69,90.5,9.3,12,92,84,Tidak,Tidak,Tepat Waktu
+MHS0286,Laki-laki,Sistem Informasi,7,3.12,67.8,23.1,12,69,69,Tidak,Tidak,Tepat Waktu
+MHS0287,Laki-laki,Teknik Industri,8,2.89,75.2,9.7,12,71,73,Ya,Tidak,Terlambat
+MHS0288,Laki-laki,Sistem Informasi,7,2.86,74.5,8.7,11,69,68,Tidak,Ya,Terlambat
+MHS0289,Laki-laki,Teknik Industri,8,3.62,97.9,14.2,14,84,81,Ya,Tidak,Tepat Waktu
+MHS0290,Laki-laki,Teknik Elektro,4,3.53,86.0,13.3,13,85,86,Tidak,Tidak,Tepat Waktu
+MHS0291,Perempuan,Informatika,4,2.86,79.5,5.0,13,75,72,Tidak,Tidak,Terlambat
+MHS0292,Laki-laki,Sistem Informasi,4,3.58,88.0,17.6,14,87,86,Ya,Tidak,Tepat Waktu
+MHS0293,Perempuan,Sistem Informasi,3,2.78,56.7,11.5,11,56,59,Tidak,Tidak,Terlambat
+MHS0294,Laki-laki,Informatika,7,2.67,81.5,6.4,12,65,73,Tidak,Tidak,Terlambat
+MHS0295,Perempuan,Informatika,7,4.0,100.0,17.9,14,77,93,Ya,Tidak,Tepat Waktu
+MHS0296,Perempuan,Sistem Informasi,7,2.82,83.6,15.1,11,67,76,Tidak,Ya,Tepat Waktu
+MHS0297,Perempuan,Informatika,3,3.04,82.8,5.7,11,61,61,Tidak,Tidak,Tepat Waktu
+MHS0298,Perempuan,Informatika,5,3.63,88.6,20.9,14,76,100,Tidak,Tidak,Tepat Waktu
+MHS0299,Perempuan,Teknik Industri,3,3.48,92.7,15.3,13,87,73,Tidak,Tidak,Tepat Waktu
+MHS0300,Perempuan,Teknik Industri,8,2.65,58.0,11.9,10,70,63,Tidak,Tidak,Terlambat
+MHS0301,Perempuan,Teknik Industri,3,3.09,61.8,20.0,9,57,63,Ya,Tidak,Tepat Waktu
+MHS0302,Laki-laki,Sistem Informasi,3,2.88,84.5,12.8,11,77,92,Tidak,Tidak,Tepat Waktu
+MHS0303,Laki-laki,Teknik Sipil,5,2.91,73.4,11.9,10,56,57,Tidak,Tidak,Terlambat
+MHS0304,Laki-laki,Teknik Elektro,8,3.15,97.7,8.7,14,78,74,Ya,Ya,Tepat Waktu
+MHS0305,Perempuan,Informatika,8,3.02,78.2,14.9,12,67,64,Ya,Tidak,Tepat Waktu
+MHS0306,Laki-laki,Informatika,2,2.7,58.8,14.4,5,60,57,Ya,Tidak,Terlambat
+MHS0307,Laki-laki,Teknik Elektro,4,3.01,66.8,12.1,9,55,48,Tidak,Tidak,Tepat Waktu
+MHS0308,Perempuan,Informatika,3,2.45,49.0,8.1,10,61,46,Tidak,Tidak,Terlambat
+MHS0309,Laki-laki,Teknik Elektro,4,3.22,79.2,12.6,11,69,50,Tidak,Tidak,Tepat Waktu
+MHS0310,Laki-laki,Teknik Sipil,5,2.96,79.7,11.7,8,60,69,Ya,Tidak,Tepat Waktu
+MHS0311,Laki-laki,Informatika,3,2.8,76.9,5.3,14,55,63,Ya,Tidak,Terlambat
+MHS0312,Laki-laki,Informatika,2,3.17,94.9,4.6,14,79,62,Tidak,Tidak,Tepat Waktu
+MHS0313,Laki-laki,Teknik Sipil,5,3.43,96.4,14.8,13,93,95,Tidak,Tidak,Tepat Waktu
+MHS0314,Laki-laki,Teknik Elektro,2,2.67,80.0,1.0,11,64,48,Tidak,Tidak,Terlambat
+MHS0315,Laki-laki,Informatika,3,2.86,56.4,13.0,10,81,67,Tidak,Tidak,Terlambat
+MHS0316,Laki-laki,Teknik Sipil,2,3.26,89.4,9.6,12,89,68,Tidak,Tidak,Tepat Waktu
+MHS0317,Laki-laki,Teknik Sipil,2,3.19,88.7,18.5,14,82,100,Tidak,Tidak,Tepat Waktu
+MHS0318,Perempuan,Teknik Elektro,5,2.76,85.7,9.5,13,71,82,Tidak,Ya,Terlambat
+MHS0319,Laki-laki,Teknik Elektro,7,3.46,93.8,15.3,14,90,75,Tidak,Ya,Tepat Waktu
+MHS0320,Perempuan,Informatika,7,2.64,68.0,10.0,10,53,53,Ya,Tidak,Terlambat
+MHS0321,Perempuan,Informatika,2,3.59,100.0,12.6,14,97,92,Ya,Tidak,Tepat Waktu
+MHS0322,Laki-laki,Teknik Elektro,2,3.24,70.5,15.7,12,74,68,Ya,Tidak,Tepat Waktu
+MHS0323,Laki-laki,Informatika,4,2.93,91.0,9.7,11,77,73,Ya,Tidak,Tepat Waktu
+MHS0324,Laki-laki,Teknik Elektro,6,2.49,61.8,17.0,6,66,72,Ya,Tidak,Terlambat
+MHS0325,Perempuan,Teknik Industri,7,3.18,70.8,7.0,11,79,55,Tidak,Tidak,Terlambat
+MHS0326,Perempuan,Informatika,7,3.5,100.0,13.5,14,88,87,Ya,Ya,Tepat Waktu
+MHS0327,Perempuan,Teknik Elektro,4,3.15,78.9,16.6,12,75,85,Tidak,Tidak,Tepat Waktu
+MHS0328,Laki-laki,Informatika,3,3.2,92.1,15.3,14,99,92,Tidak,Ya,Tepat Waktu
+MHS0329,Perempuan,Teknik Sipil,2,3.3,84.8,21.6,11,91,80,Tidak,Tidak,Tepat Waktu
+MHS0330,Laki-laki,Informatika,3,2.74,80.7,8.2,13,68,68,Tidak,Ya,Tepat Waktu
+MHS0331,Perempuan,Teknik Elektro,2,3.36,98.4,5.1,14,79,61,Ya,Ya,Tepat Waktu
+MHS0332,Laki-laki,Teknik Elektro,8,2.65,79.2,7.0,10,67,54,Tidak,Ya,Terlambat
+MHS0333,Perempuan,Sistem Informasi,3,2.9,60.6,15.3,8,63,63,Ya,Ya,Terlambat
+MHS0334,Perempuan,Teknik Elektro,7,2.96,72.4,14.5,14,60,72,Tidak,Ya,Terlambat
+MHS0335,Laki-laki,Teknik Industri,5,2.91,88.6,,9,57,74,Ya,Tidak,Tepat Waktu
+MHS0336,Perempuan,Teknik Elektro,5,,86.7,6.4,13,64,83,Ya,Tidak,Tepat Waktu
+MHS0337,Laki-laki,Teknik Industri,5,2.19,63.2,15.8,6,49,47,Tidak,Tidak,Terlambat
+MHS0338,Perempuan,Teknik Sipil,7,,73.3,5.9,10,55,59,Tidak,Tidak,Terlambat
+MHS0339,Laki-laki,Sistem Informasi,2,3.09,75.0,17.8,10,78,74,Tidak,Tidak,Tepat Waktu
+MHS0340,Perempuan,Teknik Elektro,2,3.39,77.6,26.3,7,75,69,Tidak,Tidak,Tepat Waktu
+MHS0341,Laki-laki,Informatika,4,2.53,65.5,13.8,10,66,78,Ya,Tidak,Terlambat
+MHS0342,Perempuan,Teknik Industri,4,3.17,74.5,14.9,10,57,78,Tidak,Ya,Tepat Waktu
+MHS0343,Perempuan,Teknik Elektro,5,2.89,73.3,9.5,6,54,61,Ya,Tidak,Tepat Waktu
+MHS0344,Perempuan,Sistem Informasi,7,3.43,91.3,2.9,14,79,91,Ya,Tidak,Tepat Waktu
+MHS0345,Perempuan,Informatika,6,3.28,91.7,9.0,14,85,64,Ya,Tidak,Tepat Waktu
+MHS0346,Perempuan,Teknik Sipil,3,3.27,80.3,,14,63,71,Ya,Tidak,Tepat Waktu
+MHS0347,Perempuan,Sistem Informasi,4,2.58,77.3,4.8,11,65,67,Ya,Tidak,Terlambat
+MHS0348,Laki-laki,Teknik Elektro,7,3.54,83.7,20.6,12,100,73,Tidak,Tidak,Tepat Waktu
+MHS0349,Perempuan,Informatika,3,2.9,72.2,13.4,12,70,73,Ya,Tidak,Terlambat
+MHS0350,Laki-laki,Teknik Sipil,5,2.7,68.2,13.9,13,63,59,Ya,Tidak,Terlambat
+MHS0351,Perempuan,Informatika,5,2.74,70.7,10.5,12,65,73,Tidak,Tidak,Terlambat
+MHS0352,Laki-laki,Informatika,7,2.92,74.4,11.1,9,65,75,Ya,Tidak,Tepat Waktu
+MHS0353,Perempuan,Teknik Sipil,7,2.83,68.0,16.8,10,66,70,Tidak,Tidak,Tepat Waktu
+MHS0354,Perempuan,Teknik Sipil,5,3.17,83.9,11.8,13,75,57,Tidak,Ya,Tepat Waktu
+MHS0355,Laki-laki,Informatika,4,2.73,90.8,14.7,9,61,66,Tidak,Ya,Tepat Waktu
+MHS0356,Laki-laki,Sistem Informasi,4,2.35,63.0,11.0,10,51,66,Tidak,Tidak,Terlambat
+MHS0357,Perempuan,Teknik Industri,4,3.47,82.3,10.3,14,73,75,Ya,Tidak,Tepat Waktu
+MHS0358,Perempuan,Teknik Sipil,3,3.09,79.4,5.0,12,64,39,Ya,Tidak,Tepat Waktu
+MHS0359,Laki-laki,Sistem Informasi,6,2.85,86.1,2.1,14,64,82,Tidak,Tidak,Tepat Waktu
+MHS0360,Perempuan,Teknik Elektro,3,,81.8,10.7,12,70,74,Tidak,Ya,Tepat Waktu
+MHS0361,Perempuan,Teknik Industri,6,2.99,64.6,12.3,9,61,53,Tidak,Tidak,Terlambat
+MHS0362,Laki-laki,Teknik Industri,7,2.71,66.9,5.6,10,66,67,Ya,Ya,Terlambat
+MHS0363,Laki-laki,Teknik Industri,8,3.1,82.4,11.8,10,70,64,Tidak,Tidak,Tepat Waktu
+MHS0364,Laki-laki,Teknik Elektro,2,3.51,94.3,12.3,11,82,72,Ya,Tidak,Tepat Waktu
+MHS0365,Perempuan,Informatika,7,2.29,55.4,1.2,10,43,52,Ya,Tidak,Terlambat
+MHS0366,Laki-laki,Teknik Sipil,2,3.12,86.1,7.4,14,80,92,Ya,Ya,Tepat Waktu
+MHS0367,Perempuan,Teknik Sipil,4,3.43,96.3,14.0,12,86,99,Tidak,Tidak,Tepat Waktu
+MHS0368,Perempuan,Teknik Industri,3,3.08,80.2,13.9,13,84,79,Ya,Ya,Tepat Waktu
+MHS0369,Laki-laki,Informatika,3,2.94,88.6,6.2,12,79,76,Tidak,Ya,Tepat Waktu
+MHS0370,Perempuan,Informatika,3,3.05,73.6,12.8,11,74,76,Tidak,Tidak,Tepat Waktu
+MHS0371,Perempuan,Teknik Industri,2,3.25,80.6,17.1,12,76,65,Tidak,Tidak,Tepat Waktu
+MHS0372,Laki-laki,Informatika,7,2.73,62.5,15.9,11,68,72,Tidak,Tidak,Tepat Waktu
+MHS0373,Laki-laki,Teknik Sipil,2,2.65,53.9,11.5,8,64,46,Tidak,Ya,Terlambat
+MHS0374,Laki-laki,Sistem Informasi,4,3.14,93.3,9.7,14,73,83,Ya,Tidak,Tepat Waktu
+MHS0375,Laki-laki,Teknik Industri,6,2.78,70.2,8.9,10,56,60,Ya,Tidak,Terlambat
+MHS0376,Laki-laki,Teknik Sipil,8,2.98,76.5,14.3,12,74,78,Tidak,Ya,Terlambat
+MHS0377,Perempuan,Sistem Informasi,7,2.86,65.4,13.0,8,64,61,Ya,Tidak,Terlambat
+MHS0378,Laki-laki,Sistem Informasi,2,2.46,65.1,15.1,13,61,38,Ya,Ya,Terlambat
+MHS0379,Laki-laki,Teknik Elektro,8,3.32,79.9,12.7,12,72,75,Ya,Tidak,Tepat Waktu
+MHS0380,Perempuan,Teknik Elektro,6,2.9,73.2,16.1,12,72,79,Ya,Ya,Tepat Waktu
+MHS0381,Perempuan,Sistem Informasi,3,3.23,86.5,12.5,9,50,76,Ya,Ya,Tepat Waktu
+MHS0382,Perempuan,Teknik Elektro,5,3.19,87.4,15.9,11,76,77,Ya,Tidak,Tepat Waktu
+MHS0383,Perempuan,Teknik Sipil,8,3.41,85.9,16.4,14,80,98,Tidak,Tidak,Tepat Waktu
+MHS0384,Laki-laki,Sistem Informasi,4,3.38,84.9,8.0,12,70,75,Ya,Ya,Tepat Waktu
+MHS0385,Laki-laki,Informatika,3,3.02,100.0,3.0,11,87,78,Tidak,Ya,Tepat Waktu
+MHS0386,Perempuan,Sistem Informasi,8,3.41,69.2,,12,61,84,Tidak,Tidak,Tepat Waktu
+MHS0387,Perempuan,Sistem Informasi,8,3.1,81.3,13.3,10,63,75,Ya,Tidak,Tepat Waktu
+MHS0388,Perempuan,Informatika,8,3.26,95.6,3.4,14,50,67,Tidak,Tidak,Tepat Waktu
+MHS0389,Laki-laki,Informatika,8,3.2,97.2,8.4,13,75,55,Tidak,Ya,Tepat Waktu
+MHS0390,Perempuan,Teknik Elektro,8,3.04,64.9,15.9,9,60,59,Tidak,Tidak,Terlambat
+MHS0391,Perempuan,Sistem Informasi,5,2.88,78.3,10.6,13,67,79,Ya,Ya,Tepat Waktu
+MHS0392,Laki-laki,Teknik Sipil,3,3.04,98.3,9.4,12,90,76,Ya,Ya,Tepat Waktu
+MHS0393,Perempuan,Informatika,6,3.26,88.1,19.0,11,90,89,Ya,Tidak,Tepat Waktu
+MHS0394,Perempuan,Informatika,3,3.04,84.3,6.8,11,69,70,Tidak,Tidak,Tepat Waktu
+MHS0395,Laki-laki,Teknik Industri,5,,79.4,8.0,13,66,83,Tidak,Tidak,Terlambat
+MHS0396,Laki-laki,Teknik Sipil,6,3.11,77.4,13.1,8,77,63,Tidak,Tidak,Tepat Waktu
+MHS0397,Perempuan,Informatika,8,3.4,85.5,14.0,9,72,77,Tidak,Tidak,Tepat Waktu
+MHS0398,Laki-laki,Informatika,4,3.02,79.0,14.5,13,67,81,Tidak,Tidak,Tepat Waktu
+MHS0399,Laki-laki,Informatika,3,3.03,81.5,16.6,10,57,89,Tidak,Tidak,Tepat Waktu
+MHS0400,Laki-laki,Teknik Elektro,7,2.84,82.9,13.0,11,69,56,Ya,Tidak,Tepat Waktu
+MHS0401,Laki-laki,Sistem Informasi,2,3.31,73.9,14.4,7,72,60,Tidak,Tidak,Tepat Waktu
+MHS0402,Perempuan,Informatika,5,3.27,88.4,10.7,11,97,83,Ya,Tidak,Tepat Waktu
+MHS0403,Perempuan,Informatika,7,3.61,100.0,12.3,14,86,100,Ya,Tidak,Tepat Waktu
+MHS0404,Laki-laki,Sistem Informasi,5,2.41,60.7,12.5,10,53,63,Tidak,Ya,Terlambat
+MHS0405,Perempuan,Teknik Sipil,4,3.18,85.9,13.1,11,63,72,Tidak,Tidak,Tepat Waktu
+MHS0406,Perempuan,Teknik Elektro,7,3.18,72.9,15.9,13,79,81,Ya,Ya,Tepat Waktu
+MHS0407,Laki-laki,Sistem Informasi,4,3.22,88.9,14.8,11,60,87,Tidak,Tidak,Tepat Waktu
+MHS0408,Perempuan,Informatika,6,3.31,82.6,12.2,10,77,67,Ya,Tidak,Tepat Waktu
+MHS0409,Laki-laki,Informatika,5,3.65,91.1,8.0,14,86,81,Ya,Ya,Tepat Waktu
+MHS0410,Perempuan,Informatika,2,3.17,96.1,12.3,14,88,95,Ya,Ya,Tepat Waktu
+MHS0411,Perempuan,Teknik Industri,5,2.96,84.3,11.9,11,71,92,Tidak,Tidak,Tepat Waktu
+MHS0412,Perempuan,Teknik Sipil,2,3.25,95.6,13.0,13,88,90,Tidak,Tidak,Tepat Waktu
+MHS0413,Laki-laki,Teknik Sipil,8,3.27,53.9,23.0,10,68,66,Ya,Tidak,Tepat Waktu
+MHS0414,Perempuan,Teknik Sipil,6,3.63,100.0,9.4,14,75,83,Ya,Tidak,Tepat Waktu
+MHS0415,Laki-laki,Teknik Sipil,4,3.13,86.5,14.1,11,95,82,Ya,Ya,Tepat Waktu
+MHS0416,Laki-laki,Teknik Sipil,5,3.51,94.9,17.3,13,82,85,Ya,Tidak,Tepat Waktu
+MHS0417,Laki-laki,Informatika,6,2.63,67.4,12.5,10,71,66,Tidak,Ya,Terlambat
+MHS0418,Perempuan,Informatika,3,3.27,72.0,23.7,8,49,62,Tidak,Tidak,Tepat Waktu
+MHS0419,Laki-laki,Sistem Informasi,4,3.09,83.8,,12,85,86,Tidak,Tidak,Tepat Waktu
+MHS0420,Perempuan,Teknik Elektro,4,3.1,81.8,13.6,11,88,62,Ya,Tidak,Tepat Waktu
+MHS0421,Perempuan,Informatika,3,3.3,85.4,8.0,14,75,70,Tidak,Tidak,Tepat Waktu
+MHS0422,Laki-laki,Teknik Industri,7,3.25,95.0,10.2,14,87,82,Ya,Ya,Tepat Waktu
+MHS0423,Laki-laki,Teknik Elektro,2,2.61,60.8,13.2,8,64,78,Ya,Ya,Terlambat
+MHS0424,Laki-laki,Teknik Elektro,7,3.45,93.7,16.2,13,78,80,Tidak,Tidak,Tepat Waktu
+MHS0425,Perempuan,Informatika,4,3.39,82.1,13.6,13,82,70,Tidak,Tidak,Tepat Waktu
+MHS0426,Perempuan,Informatika,5,3.41,79.6,,10,67,69,Tidak,Ya,Tepat Waktu
+MHS0427,Laki-laki,Informatika,3,2.94,64.3,11.5,10,55,78,Tidak,Tidak,Terlambat
+MHS0428,Perempuan,Teknik Sipil,4,3.34,88.0,,12,86,47,Tidak,Tidak,Tepat Waktu
+MHS0429,Laki-laki,Teknik Elektro,7,2.69,53.0,25.5,6,72,52,Tidak,Ya,Terlambat
+MHS0430,Perempuan,Teknik Industri,3,3.05,,14.0,11,71,100,Tidak,Ya,Tepat Waktu
+MHS0431,Perempuan,Informatika,2,2.94,64.1,8.4,12,54,67,Ya,Tidak,Terlambat
+MHS0432,Perempuan,Sistem Informasi,5,3.05,82.6,8.5,11,63,58,Ya,Tidak,Tepat Waktu
+MHS0433,Perempuan,Sistem Informasi,3,2.83,80.6,7.3,14,79,71,Ya,Tidak,Tepat Waktu
+MHS0434,Perempuan,Teknik Industri,4,3.43,96.0,16.7,13,76,87,Ya,Tidak,Tepat Waktu
+MHS0435,Laki-laki,Teknik Industri,5,3.08,79.9,10.2,12,74,79,Ya,Tidak,Terlambat
+MHS0436,Laki-laki,Informatika,5,3.06,73.7,12.6,14,80,91,Tidak,Tidak,Tepat Waktu
+MHS0437,Laki-laki,Teknik Sipil,6,3.24,,11.7,9,65,70,Tidak,Tidak,Tepat Waktu
+MHS0438,Laki-laki,Informatika,6,3.48,97.3,15.7,10,91,76,Tidak,Tidak,Tepat Waktu
+MHS0439,Perempuan,Teknik Sipil,7,3.51,88.4,7.8,14,73,84,Ya,Tidak,Terlambat
+MHS0440,Perempuan,Informatika,2,2.88,77.4,6.6,9,60,55,Tidak,Tidak,Tepat Waktu
+MHS0441,Perempuan,Informatika,4,3.09,79.2,13.1,11,62,61,Ya,Tidak,Tepat Waktu
+MHS0442,Laki-laki,Teknik Industri,2,2.6,63.2,15.0,8,71,43,Ya,Tidak,Terlambat
+MHS0443,Perempuan,Informatika,2,3.28,86.7,13.7,13,71,63,Ya,Tidak,Tepat Waktu
+MHS0444,Laki-laki,Sistem Informasi,3,2.55,60.9,8.0,7,56,43,Ya,Tidak,Terlambat
+MHS0445,Laki-laki,Sistem Informasi,6,3.08,91.0,15.4,12,80,69,Ya,Tidak,Tepat Waktu
+MHS0446,Perempuan,Informatika,8,2.97,,8.3,12,60,74,Tidak,Tidak,Tepat Waktu
+MHS0447,Perempuan,Teknik Industri,7,3.26,100.0,9.4,12,74,68,Tidak,Tidak,Tepat Waktu
+MHS0448,Perempuan,Teknik Sipil,6,2.75,68.8,7.3,8,71,26,Tidak,Tidak,Terlambat
+MHS0449,Laki-laki,Teknik Sipil,7,3.34,80.8,18.5,11,79,67,Ya,Tidak,Tepat Waktu
+MHS0450,Perempuan,Sistem Informasi,3,3.31,100.0,15.2,11,74,79,Tidak,Tidak,Tepat Waktu
+MHS0451,Laki-laki,Teknik Elektro,7,3.56,96.3,15.0,13,88,79,Tidak,Tidak,Tepat Waktu
+MHS0452,Perempuan,Informatika,8,3.03,73.6,18.2,11,72,88,Ya,Ya,Tepat Waktu
+MHS0453,Perempuan,Informatika,2,2.93,84.7,26.1,11,100,79,Tidak,Tidak,Tepat Waktu
+MHS0454,Laki-laki,Informatika,5,2.83,82.0,3.5,11,68,74,Tidak,Tidak,Tepat Waktu
+MHS0455,Laki-laki,Teknik Sipil,7,3.32,85.4,8.3,12,68,72,Tidak,Tidak,Tepat Waktu
+MHS0456,Laki-laki,Teknik Sipil,5,2.52,73.6,8.9,9,76,62,Ya,Tidak,Terlambat
+MHS0457,Perempuan,Teknik Industri,7,3.07,80.9,7.7,13,52,62,Tidak,Tidak,Terlambat
+MHS0458,Laki-laki,Teknik Elektro,8,3.03,62.8,6.6,11,59,57,Ya,Tidak,Terlambat
+MHS0459,Perempuan,Sistem Informasi,5,2.86,83.6,10.5,11,91,64,Ya,Ya,Terlambat
+MHS0460,Perempuan,Teknik Elektro,2,3.12,87.4,5.9,13,71,74,Ya,Tidak,Terlambat
+MHS0461,Perempuan,Teknik Elektro,4,2.83,79.3,13.7,11,55,70,Tidak,Tidak,Tepat Waktu
+MHS0462,Laki-laki,Sistem Informasi,3,3.07,62.6,12.3,9,56,50,Ya,Tidak,Tepat Waktu
+MHS0463,Perempuan,Informatika,5,3.48,93.9,14.4,14,99,94,Ya,Tidak,Tepat Waktu
+MHS0464,Laki-laki,Informatika,6,3.34,86.4,14.5,13,83,83,Ya,Tidak,Tepat Waktu
+MHS0465,Perempuan,Teknik Sipil,5,3.06,73.3,15.0,7,56,60,Tidak,Ya,Tepat Waktu
+MHS0466,Perempuan,Sistem Informasi,3,3.09,78.6,10.1,12,63,72,Tidak,Ya,Tepat Waktu
+MHS0467,Perempuan,Teknik Sipil,4,2.93,64.0,22.6,11,66,71,Tidak,Tidak,Tepat Waktu
+MHS0468,Perempuan,Informatika,6,2.75,69.7,13.2,9,68,55,Ya,Tidak,Terlambat
+MHS0469,Laki-laki,Teknik Elektro,2,2.85,75.5,2.7,12,76,63,Ya,Ya,Terlambat
+MHS0470,Laki-laki,Informatika,3,3.12,,7.0,12,87,70,Tidak,Tidak,Tepat Waktu
+MHS0471,Laki-laki,Informatika,8,2.24,74.3,,8,61,47,Ya,Tidak,Terlambat
+MHS0472,Laki-laki,Informatika,2,3.26,89.7,12.1,13,65,63,Tidak,Tidak,Tepat Waktu
+MHS0473,Laki-laki,Informatika,4,2.53,75.5,11.4,7,49,59,Tidak,Tidak,Terlambat
+MHS0474,Laki-laki,Teknik Sipil,3,3.34,85.0,9.7,11,77,77,Tidak,Ya,Tepat Waktu
+MHS0475,Laki-laki,Sistem Informasi,2,3.37,80.3,22.1,14,71,77,Tidak,Ya,Tepat Waktu
+MHS0476,Laki-laki,Teknik Elektro,4,3.13,92.5,14.7,10,76,100,Tidak,Tidak,Tepat Waktu
+MHS0477,Laki-laki,Sistem Informasi,5,2.86,75.6,15.6,8,71,76,Ya,Tidak,Tepat Waktu
+MHS0478,Perempuan,Sistem Informasi,3,2.19,63.1,7.3,7,41,66,Tidak,Tidak,Terlambat
+MHS0479,Perempuan,Teknik Elektro,2,2.45,65.4,,9,46,65,Ya,Tidak,Terlambat
+MHS0480,Laki-laki,Informatika,2,3.21,75.6,12.2,10,67,86,Tidak,Tidak,Tepat Waktu
+MHS0481,Laki-laki,Teknik Sipil,6,3.41,67.0,12.9,12,72,59,Ya,Tidak,Tepat Waktu
+MHS0482,Laki-laki,Teknik Industri,8,3.21,86.9,2.7,14,81,45,Ya,Tidak,Tepat Waktu
+MHS0483,Perempuan,Teknik Industri,3,3.04,76.4,11.1,12,76,65,Tidak,Tidak,Tepat Waktu
+MHS0484,Laki-laki,Sistem Informasi,4,3.32,100.0,12.1,14,86,91,Ya,Ya,Tepat Waktu
+MHS0485,Laki-laki,Informatika,4,2.51,61.1,10.9,9,50,59,Ya,Tidak,Terlambat
+MHS0486,Laki-laki,Teknik Sipil,4,3.41,84.4,7.9,10,58,71,Tidak,Tidak,Tepat Waktu
+MHS0487,Laki-laki,Sistem Informasi,3,2.73,68.5,9.3,11,58,76,Ya,Ya,Terlambat
+MHS0488,Laki-laki,Informatika,2,3.26,76.1,11.1,9,70,69,Tidak,Ya,Terlambat
+MHS0489,Perempuan,Sistem Informasi,5,3.43,83.7,12.5,13,80,84,Ya,Ya,Tepat Waktu
+MHS0490,Perempuan,Teknik Industri,4,2.37,54.1,15.0,10,38,50,Ya,Tidak,Terlambat
+MHS0491,Perempuan,Teknik Elektro,4,3.17,84.8,,12,72,69,Ya,Tidak,Tepat Waktu
+MHS0492,Perempuan,Teknik Industri,3,3.36,100.0,10.5,14,96,100,Tidak,Tidak,Tepat Waktu
+MHS0493,Perempuan,Teknik Industri,8,2.97,76.6,9.7,11,68,68,Tidak,Tidak,Tepat Waktu
+MHS0494,Laki-laki,Informatika,6,3.01,,14.2,7,56,63,Ya,Tidak,Tepat Waktu
+MHS0495,Perempuan,Teknik Sipil,4,4.0,94.3,15.1,14,100,79,Tidak,Tidak,Tepat Waktu
+MHS0496,Laki-laki,Sistem Informasi,3,2.81,80.0,9.8,11,69,63,Tidak,Tidak,Terlambat
+MHS0497,Laki-laki,Teknik Elektro,7,3.11,75.0,16.0,10,74,63,Tidak,Tidak,Tepat Waktu
+MHS0498,Perempuan,Informatika,8,2.88,54.7,16.9,9,64,47,Tidak,Tidak,Tepat Waktu
+MHS0499,Laki-laki,Teknik Sipil,2,3.4,89.7,18.5,12,79,68,Tidak,Tidak,Tepat Waktu
+MHS0500,Laki-laki,Informatika,8,3.24,80.6,20.9,9,69,74,Tidak,Tidak,Tepat Waktu
