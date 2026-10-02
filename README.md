@@ -1,18 +1,11 @@
 # Data Cleansing & Data Enrichment: Dataset Kelulusan Mahasiswa
 
 Tugas Studi Kasus Mata Kuliah **Data Mining** (Pertemuan 4)
-**Nama:** Dio Raditya Putra Pratama | **NIM:** 2318044 | **Kampus:** Institut Teknologi Nasional Malang
+**Nama:** Dio Raditya Putra Pratama | **NIM:** 2318044 |
 
 ## Deskripsi Project
 Project ini membersihkan (*data cleansing*) dan memperkaya (*data enrichment*) dataset kelulusan mahasiswa menggunakan Python di Google Colab. Dataset berisi 500 data mahasiswa dengan 13 kolom, mencakup data akademik (IPK, nilai UTS/UAS, kehadiran, tugas), kebiasaan belajar, aktivitas di luar kuliah, dan status kelulusan (Tepat Waktu / Terlambat).
 
-## Struktur Repository
-```
-├── 2318044DataCleansing.ipynb            # notebook utama
-├── dataset_kelulusan_mahasiswa.csv       # dataset asli
-├── dataset_kelulusan_mahasiswa_clean.csv # dataset hasil cleansing & enrichment
-└── README.md
-```
 
 ## Masalah Kualitas Data yang Ditemukan
 | Masalah | Temuan |
@@ -56,11 +49,6 @@ Delapan fitur turunan ditambahkan dari kolom yang sudah ada:
 - Persentase lulus tepat waktu naik tajam seiring kategori IPK: 10,1% (Cukup), 84,0% (Baik), 97,3% (Sangat Baik).
 - Kehadiran juga berpengaruh besar: 34,5% (Rendah), 82,0% (Sedang), 99,1% (Tinggi).
 - Mahasiswa dengan lebih banyak aktivitas di luar kuliah cenderung sedikit lebih rendah persentase lulus tepat waktunya (75,4% untuk 0 aktivitas, 67,9% untuk 2 aktivitas), tetapi selisihnya jauh lebih kecil dibanding pengaruh IPK dan kehadiran.
-
-## Cara Menjalankan
-1. Buka `2318044DataCleansing.ipynb` di Google Colab.
-2. Upload `dataset_kelulusan_mahasiswa.csv` ke Colab (ikon folder di sidebar kiri).
-3. Jalankan semua sel (**Runtime → Run all**).
 
 **Link Google Colab:** https://colab.research.google.com/drive/1K-8jAA4JN0K5yHb6I4N44bVkNi5JnGTQ?usp=sharing
 
