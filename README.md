@@ -62,7 +62,7 @@ Delapan fitur turunan ditambahkan dari kolom yang sudah ada:
 2. Upload `dataset_kelulusan_mahasiswa.csv` ke Colab (ikon folder di sidebar kiri).
 3. Jalankan semua sel (**Runtime → Run all**).
 
-**Link Google Colab:** [isi link Colab di sini]
+**Link Google Colab:** https://colab.research.google.com/drive/1K-8jAA4JN0K5yHb6I4N44bVkNi5JnGTQ?usp=sharing
 
 ## Tools
 Python, Pandas, NumPy, Matplotlib, Google Colab
